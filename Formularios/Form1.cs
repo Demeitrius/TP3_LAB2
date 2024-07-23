@@ -831,9 +831,7 @@ namespace TP2_Lab
                             "***************************************************\n" +
                             "Versión: 1.0\n" +
                             "Autores: \n" +
-                            "Acosta,Nicolas \n" +
                             "Belini, Augusto \n" +
-                            "Millen, Julian \n" +
                             "Descripción: Proyecto de alquileres temporarios que facilita la gestion de reservas para habitaciones de hotel, casas por dias y casas de fin de semana. Ofreciendo caracteristicas de filtrado como importacion/exportacion de datos en formato CSV, graficos estadisticos y una interfaz de usuario intuitiva y facil de usar para quien lo desee. \n" +
                             "Fecha de creación: Julio 2024\n" +
                             "*******************************",
